@@ -23,3 +23,10 @@ A API foi desenhada para ser 100% **Stateless**, retornando mensagens de texto q
 ## Decisões de Projeto
 *   **Abordagem Simples:** Removida a necessidade de persistência ou envio de JSON complexo, focando na semântica das rotas.
 *   **Estratatégia Stateless:** Cada requisição é independente e confirma a ação solicitada via String.
+
+
+## Integrantes: 
+- Cilas Pinto Macedo - RM560745
+- Ian Junji Maluvayshi Matsushita RM560588
+- Pedro Arão Baquini - RM559580
+- Leandro Kamada Pesce Dimov - RM560381
