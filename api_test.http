@@ -1,0 +1,32 @@
+### 1. Iniciar Pedido
+POST http://localhost:8080/orders/iniciar
+
+###
+
+### 2. Adicionar Item
+POST http://localhost:8080/orders/adicionar-item
+
+###
+
+### 3. Confirmar Pedido
+POST http://localhost:8080/orders/confirmar
+
+###
+
+### 4. Preparar Pedido
+POST http://localhost:8080/orders/preparar
+
+###
+
+### 5. Finalizar Preparo
+POST http://localhost:8080/orders/finalizar
+
+###
+
+### 6. Entregar Pedido
+POST http://localhost:8080/orders/entregar
+
+###
+
+### 7. Cancelar Pedido
+POST http://localhost:8080/orders/cancelar
